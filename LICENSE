@@ -1,0 +1,374 @@
+Purpose Source License 1.0
+https://purposesource.org
+
+Summary
+
+This summary is not part of the licence terms; the terms below govern.
+
+This software works like open source, except that large commercial
+organizations need to support charity to use it. Anyone may use, change and
+share it under this licence. It is free forever for personal use, smaller
+organizations, non-profits, public schools, universities and public bodies in
+their own work. Purpose Source's goal is to extend the benefit of the
+maintainers' and contributors' work beyond the code itself. Authors keep their
+copyright, maintainers keep control, and both maintainers and contributors can
+help choose the charities their work supports.
+
+The Purpose Source Association handles the fees, the contracts with buyers and
+the licence itself, so maintainers never have to deal with payments or buyer
+contracts. It publishes every amount it passes on, and it recognizes their
+contribution with certificates to share on CVs, portfolios and professional
+profiles.
+
+Large organizations do this through a published fee for this project or one
+annual Pass covering all software under this licence. The Association forwards
+100% of the net proceeds to the listed charities after published, capped
+costs. Maintainers can also exempt any organizations they choose from paying,
+by granting them free waivers for as long as they choose.
+
+"Large" means a group with at least 100 people, or at least USD 1 million in
+revenue in its last completed year. Even large organizations can evaluate it,
+review its security and contribute to it for free, outside production and
+without offering its functionality to others. A large organization has sixty
+days from the day it needs a fee or waiver to arrange one.
+
+Code covered by a fee or waiver remains the organization's to use for good
+after it ends. Four years after each part first becomes public under this
+licence, it receives Apache-2.0 permissions. Your own software stays yours: no
+source disclosure or relicensing, and no audits under these terms. When you
+share this software, keep this licence and the notices that came with it.
+
+1. Purpose Notice
+
+These lines are part of the licence text, identical in every copy:
+
+Steward:         Purpose Source Association (the Association)
+Seat:            Aarau, Switzerland
+Registry:        https://purposesource.org/registry
+Canonical text:  https://purposesource.org/license/PurposeSource-1.0.txt
+
+2. Words used here
+
+These terms are §1 to §14 of this text. The summary above §1 is not part of
+them. The software is the work these terms come with. A part is any material
+in it. A part is public from the day anyone can first obtain it under these
+terms: by a public commit, tag, release or package. An author's own timestamp
+never sets that day.
+
+You are the individual or organization using the software.
+
+The maintainers are whoever holds administrative control of the software's
+canonical repository, or whoever they name through the Registry's verified
+claim. Naming someone in any other way does not count.
+
+A version is a release the maintainers identify as a version.
+
+An organization's group is that organization plus all organizations that
+control it, that it controls, or that are under common control with it.
+
+Control means ownership of substantially all the assets of an entity, or the
+power to direct its management and policies by vote, contract, or otherwise.
+Control can be direct or indirect.
+
+The Association is the Purpose Source Association named in §1, or its
+successor publicly designated under §8. It does not own or license the code it
+registers for others; the §3 permissions come from the software's own
+contributors. For its own software it is an ordinary contributor.
+
+The Registry is the public record the Association keeps at
+https://purposesource.org/registry, with its transparency log and the log's
+public mirrors outside the Association's control. The Association may also
+keep the Registry at another address, named in a signed record in its
+transparency log. A credential is recorded when published in the Registry, and
+counts from that day.
+
+An Entitlement is a credential the Association records for an organization
+under a separate agreement. These terms do not create that agreement and do
+not set its price. The Association issues Entitlements only under its
+published schedule, on the same terms for everyone, for at most one year at a
+time. It issues them only within the commitments in its published
+constitution: that funds go to charity and that there is no distributable
+private profit. A renewal is recorded when its term starts, never in advance.
+Each Entitlement covers the software it names, or every work under these terms
+if it says so.
+
+A Waiver is the maintainers' record naming an organization that may use the
+software without an Entitlement. Its public entry may mask the name of any
+organization it names. Each organization named gets a signed copy of the full
+record from the Association, to prove that the Waiver names it. A Waiver is
+published in the Registry once three things are public: its public entry, that
+entry's verifiable link to the full record, and its transparency log entry.
+Unlike other credentials, a Waiver counts from that moment, not from the start
+of that day. A Waiver that was never published covers nobody.
+
+A credential is an Entitlement or a Waiver. It is current throughout its term
+as the Registry records it. For an Entitlement, the term is the start date,
+the end date and the schedule version. A later schedule change never alters
+the term. A Waiver's term ends at the moment of the transparency log entry
+that records its revocation. If its public entry stated an end date when it
+was published, the term ends at the end of that date instead, unless the
+transparency log recorded its revocation before then. An organization holding
+a current credential for software is covered for it; that is its coverage.
+
+A part is vested when it is yours to keep for good; §9 says when that happens.
+
+3. What you may do
+
+Each contributor grants you, subject to §4:
+
+  - a copyright licence under all copyright they hold in their contributions,
+    to do everything with the software that would otherwise infringe that
+    copyright; and
+  - a patent licence to make, have made, use, offer to sell, sell, import and
+    otherwise transfer the software. It applies only to the patent claims they
+    can license that are necessarily infringed by their contribution, alone or
+    combined with the software they contributed it to.
+
+Each grant is per contributor; nobody grants for anyone else. Everyone gets
+the same grants, and they cannot be taken back, except as these terms say. A
+contribution intentionally submitted to the project is offered under these
+terms unless the contributor clearly says otherwise. Contributors keep their
+copyright.
+
+Patent defence. Every patent licence you or your group hold under these terms
+for the software ends the day you or a member of your group files patent
+litigation about it. That means alleging that the software or a contribution
+in it infringes a patent, or contributes to infringing one; a cross-claim or
+counterclaim counts. Patent licences for vested parts end too. Your copyright
+licences are unaffected.
+
+4. The Purpose Condition — when you may use it
+
+The permissions in §3 apply only while one of these is true:
+
+  (a) you are not using the software for a large organization (§5);
+  (b) the large organization you use it for holds a current Entitlement
+      covering the software; or
+  (c) that organization holds a current Waiver covering the software.
+
+Even without a credential, the permissions in §3 apply to non-production
+evaluation, security review, and preparing and submitting contributions to the
+project. That does not include production use, or offering the software's
+functionality to others.
+
+You use the software for an organization when you use it as that organization,
+or in work for it as its employee, contractor or service provider. Work others
+do solely for a client is covered by that client's coverage; if that client is
+not large, the work needs no coverage. A general service for many customers is
+your own use; a dedicated deployment for one customer is work for that
+customer. Incidental benefit and merely passing the software on do not count
+as use for an organization. Personal use, unrelated to work for an
+organization, needs no coverage.
+
+Any use these terms do not permit is simply unlicensed under them: no promise
+is broken. These terms require nobody to pay; §6 is the only grace period.
+
+5. Who counts as large
+
+An organization is large if its whole group, taken together, had a headcount
+of 100 or more, or revenue of USD 1,000,000 or more. Use each member's latest
+completed tax year. If that year was not twelve months, 52 weeks or 53 weeks
+long, scale the member's revenue to a full year.
+
+Non-profits, public education and public bodies never need coverage for their
+own use, whatever their headcount or revenue, and do not count as large:
+
+  - a non-profit body, or a public-benefit body barred by law or its articles
+    from distributing profit, under the law it is organized under;
+  - a public educational institution; or
+  - a public body performing public functions.
+
+A commercial organization that one of these bodies controls is measured like
+any other. When measuring it, leave out the figures of every group member that
+is one of these bodies. Work for a commercial client is judged by that client
+under §4.
+
+Counting. Headcount is the average month-end number of employees and
+individual contractors with ongoing engagements, each counted once, part-time
+included. Revenue excludes transactions between the members counted;
+investment raised is not revenue. Without a completed tax year, use current
+headcount, and revenue since formation scaled to a full year. You may use
+reasonable provisional figures until reliable ones exist. Group changes count
+when they occur. Convert currencies at a published central-bank or IMF average
+rate for the period, chosen consistently.
+
+You assess your own size. Nobody may audit you under these terms: neither a
+contributor nor the Association may demand your books, headcount or any
+certification.
+
+6. Sixty days to put it right
+
+When your use needs coverage and none of (a) to (c) in §4 is true, the
+permissions in §3 still continue for 60 days from:
+
+  (a) the end of the first tax year whose figures make an organization large,
+      and the end of each later tax year whose figures make it large when it
+      was not large just before;
+  (b) the day a change of control made an organization large;
+  (c) the day a credential's term ended;
+  (d) if reliable figures later show an organization was large, the day you
+      knew or should reasonably have known, even if (a) gives an earlier day;
+      or
+  (e) otherwise, the large organization's first day of such use.
+
+The 60 days never start before the large organization's first day of such use.
+If one of (a) to (c) in §4 becomes true again within the 60 days, the
+permissions continue uninterrupted. Otherwise they end after the 60th day, and
+resume, for use from then on, when one of (a) to (c) in §4 becomes true. This
+section applies again each later time your use needs coverage and none of (a)
+to (c) in §4 is true, for at most 60 such days in any twelve months. Stopping
+and restarting the same use, or the passing of time, gives no new days by
+itself. The large organization's first day of such use and its count of such
+days stay with the software through any update, fork or renaming; other
+software has its own. These days alone vest nothing; a later credential may
+cover that code under §9.
+
+Days of use that §4's evaluation and contribution rule permits do not count.
+The following days also do not count toward either 60:
+
+  - days that the transparency log records as a general outage of the
+    Association's issuing service; and
+  - days of a stop in issuing Entitlements, from the log entry recording the
+    stop to the log entry saying Entitlements can be obtained again.
+
+If permissions are still continuing under this section when a stop in issuing
+Entitlements ends, they last at least 60 days from the log entry that ends the
+stop, even beyond the limit of 60 days in any twelve months. Vested parts need
+none of this.
+
+7. Apache-2.0 after four years
+
+Each contributor also grants you, now, the copyright and patent permissions of
+the Apache License, Version 2.0, for each part of the software. That grant
+takes effect four years after the part, in any form, was first public under
+these terms. Nothing more is needed on that day, and §4 no longer restricts
+that part.
+
+Each part has its own clock, and material added later has its own. Forking or
+repackaging a part never restarts its clock. For every part in a version, the
+grant takes effect no later than four years after that version was first
+public. If the part's own clock gives an earlier day, that day stands.
+
+Nobody can extend the four years for anything already public.
+
+8. If the Association stops
+
+On the first of these days, the condition in §4 lapses, and the permissions in
+§3 then apply without it, for everyone:
+
+  (a) the day the Association ceases to exist with no successor publicly
+      designated;
+  (b) the last day of any twelve months in a row in which the Association
+      neither recorded an Entitlement nor published a dated statement of the
+      kind described below; or
+  (c) the day named in a declaration of lapse.
+
+The statement in (b) is one the Association publishes in its transparency log
+within those months. It is dated and says that Entitlements could be obtained
+under the Association's published schedule. The clock in (b) starts at this
+text's first official publication and keeps running even when a successor
+takes over. A Waiver is the maintainers' record and does not count under (b).
+A declaration of lapse is a signed record, published in the Registry and its
+transparency log, naming the day the Association stops issuing Entitlements.
+It cannot be withdrawn, and its day cannot be moved later. The transparency
+log and its mirrors show whether one of these days has come. Lapse does not
+make the grant in §7 take effect earlier.
+
+A successor is publicly designated only by a signed record published in the
+Registry and its transparency log. It must name a non-profit or a public body
+that has accepted three things in writing: these terms, every recorded
+credential and the commitments in §2. From the day that record is published,
+the successor is the Association for every purpose here, and gets no new clock
+under (b).
+
+9. What you keep
+
+A current credential satisfies §4 for the software it covers, for every
+contributor's grant. It also vests parts; for a Waiver, the next paragraph
+says how. A part vests for an organization when its credential covers the part
+and the part was public by the end of the credential's term. Once a part has
+vested, nothing takes it away; only §3's patent defence can end its patent
+licence.
+
+Waivers. A Waiver gives permission from the moment it is recorded and vests
+nothing in its first 72 hours. If it is still current at the end of those 72
+hours, every part it covers that is public by then vests. Later parts it
+covers vest as they become public while it stays current. The transparency
+log, not a copy saved when it was issued, shows whether it was still current.
+Revocation never makes earlier permitted use unlawful.
+
+The only exceptions. A forged record — one nobody genuinely issued — vests
+nothing. A credential obtained by fraud or deliberate deception vests nothing.
+A Waiver vests nothing for an organization that knowingly obtained it through
+a benefit given for the Waiver, or through a separate fee for filing or
+promoting the request. The Waiver also vests nothing for an entity that
+organization controls. A promised or indirect benefit counts; an ordinary
+salary, or pay for work truly separate from the Waiver, does not count by
+itself. This holds even after the Waiver's first 72 hours. A finding by the
+Association alone does not decide whether the Waiver was obtained in that way.
+If a term is refunded or charged back in full, that term vests nothing. Use
+during that term before the refund stays lawful. A partial refund, or a refund
+for the Association's own failure, leaves vesting untouched. You may rely on a
+genuinely issued record despite any of these:
+
+  - the Association's error;
+  - an honest understatement of size when the record was obtained;
+  - a later compromise of the signing key; or
+  - the record's later removal.
+
+Groups and forks. A credential covers the organization it is recorded for and
+the entities that organization controls, while it controls them. An entity
+that leaves that organization's control keeps what it vested. A parent or
+sister company is covered only if the record names it. A covered business sold
+or merged takes its vested coverage with it, for its own operations, not the
+buyer's. Coverage cannot be sold on its own. Vested parts stay vested in forks
+and modified copies; what others add needs its own permission. A credential
+that names software covers the contributions first offered under these terms
+through that project, not code imported from elsewhere. A contribution first
+published in a fork or branch for submission to the project counts as the
+project's once accepted. Forking gives no power to waive conditions on
+upstream code.
+
+Vesting is permission from now on, never forgiveness for earlier use.
+
+By licensing under these terms, every contributor accepts that recorded
+credentials satisfy §4 for their grant. The maintainers may record a Waiver
+free of charge and revoke it for the future.
+
+10. What these terms never ask of you
+
+These terms ask nothing of your own software. They require no disclosure, no
+audit and no report. They do not require you to give source code to anyone,
+including people who use your software over a network. They also do not
+require you to put your own code, or your changes to the software, under these
+terms.
+
+11. Notices
+
+When you distribute a copy or a substantial portion of the software, the
+permissions in §3 apply to it only if it keeps these terms and the notices.
+The notices are every copyright, patent and attribution notice you received
+with it. If you leave one out, putting it back restores the permission from
+then on. Material that came to the project under other terms stays under them,
+with its notices. These terms govern the contributions made under them.
+
+12. The name
+
+The names of these terms and of the Association are the Association's
+trademarks. You may say software is licensed under these terms only if the
+text you distribute with it is this text, unchanged, as the Association
+published it. Nothing here grants any other right in those trademarks, or
+restricts you from describing the software factually.
+
+13. No warranty
+
+This section applies as far as the law allows. The software comes as is,
+without any warranty or condition. No contributor will be liable to you for
+any damages arising out of these terms or the software's use or nature, under
+any kind of legal claim. Where the law says something cannot be excluded,
+these terms do not exclude it.
+
+14. If part of this fails
+
+If any of these terms cannot be enforced, the rest still apply. Nobody loses a
+right here by not enforcing it at once.
