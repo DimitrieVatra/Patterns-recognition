@@ -30,12 +30,13 @@ by granting them free waivers for as long as they choose.
 revenue in its last completed year. Even large organizations can evaluate it,
 review its security and contribute to it for free, outside production and
 without offering its functionality to others. A large organization has sixty
-days from the day it needs a fee or waiver to arrange one.
+days from the day it needs a fee or waiver to arrange one, and needs none
+while its written request for one awaits the Association's answer.
 
 Code covered by a fee or waiver remains the organization's to use for good
 after it ends. Four years after each part first becomes public under this
-licence, it receives Apache-2.0 permissions. Your own software stays yours: no
-source disclosure or relicensing, and no audits under these terms. When you
+licence, it is also licensed under Apache-2.0. Your own software stays yours:
+no source disclosure or relicensing, and no audits under these terms. When you
 share this software, keep this licence and the notices that came with it.
 
 1. Purpose Notice
@@ -224,29 +225,28 @@ software has its own. These days alone vest nothing; a later credential may
 cover that code under §9.
 
 Days of use that §4's evaluation and contribution rule permits do not count.
-The following days also do not count toward either 60:
 
-  - days that the transparency log records as a general outage of the
-    Association's issuing service; and
-  - days of a stop in issuing Entitlements, from the log entry recording the
-    stop to the log entry saying Entitlements can be obtained again.
-
-If permissions are still continuing under this section when a stop in issuing
-Entitlements ends, they last at least 60 days from the log entry that ends the
-stop, even beyond the limit of 60 days in any twelve months. Vested parts need
-none of this.
+You can buy an Entitlement covering the software on the Association's
+published purchase page. If that page does not sell you one, you may ask the
+Association for one in writing; an e-mail counts as writing. From your
+request, the permissions in §3 continue, or resume, until the Association
+answers: by offering you one under its published schedule, or by telling you
+that the law forbids it to deal with you. If the purchase page later sells you
+one, that counts as an offer. The days in between do not count toward either
+60, so you keep any days you had left. Your request gives permission from then
+on, never forgiveness for earlier use. Vested parts need none of this.
 
 7. Apache-2.0 after four years
 
-Each contributor also grants you, now, the copyright and patent permissions of
-the Apache License, Version 2.0, for each part of the software. That grant
-takes effect four years after the part, in any form, was first public under
-these terms. Nothing more is needed on that day, and §4 no longer restricts
-that part.
+Each contributor also licenses each part of the software to you, now, under
+the Apache License, Version 2.0. That licence takes effect four years after
+the part, in any form, was first public under these terms. From that day you
+may use the part under the Apache License 2.0 alone: nothing more is needed,
+and these terms no longer restrict it.
 
 Each part has its own clock, and material added later has its own. Forking or
-repackaging a part never restarts its clock. For every part in a version, the
-grant takes effect no later than four years after that version was first
+repackaging a part never restarts its clock. For every part in a version, that
+licence takes effect no later than four years after that version was first
 public. If the part's own clock gives an earlier day, that day stands.
 
 Nobody can extend the four years for anything already public.
@@ -257,29 +257,19 @@ On the first of these days, the condition in §4 lapses, and the permissions in
 §3 then apply without it, for everyone:
 
   (a) the day the Association ceases to exist with no successor publicly
-      designated;
-  (b) the last day of any twelve months in a row in which the Association
-      neither recorded an Entitlement nor published a dated statement of the
-      kind described below; or
-  (c) the day named in a declaration of lapse.
+      designated; or
+  (b) the day named in a declaration of lapse.
 
-The statement in (b) is one the Association publishes in its transparency log
-within those months. It is dated and says that Entitlements could be obtained
-under the Association's published schedule. The clock in (b) starts at this
-text's first official publication and keeps running even when a successor
-takes over. A Waiver is the maintainers' record and does not count under (b).
 A declaration of lapse is a signed record, published in the Registry and its
 transparency log, naming the day the Association stops issuing Entitlements.
-It cannot be withdrawn, and its day cannot be moved later. The transparency
-log and its mirrors show whether one of these days has come. Lapse does not
-make the grant in §7 take effect earlier.
+It cannot be withdrawn, and its day cannot be moved later. Lapse does not make
+§7 take effect earlier.
 
 A successor is publicly designated only by a signed record published in the
 Registry and its transparency log. It must name a non-profit or a public body
 that has accepted three things in writing: these terms, every recorded
 credential and the commitments in §2. From the day that record is published,
-the successor is the Association for every purpose here, and gets no new clock
-under (b).
+the successor is the Association for every purpose here.
 
 9. What you keep
 
@@ -306,10 +296,25 @@ organization controls. A promised or indirect benefit counts; an ordinary
 salary, or pay for work truly separate from the Waiver, does not count by
 itself. This holds even after the Waiver's first 72 hours. A finding by the
 Association alone does not decide whether the Waiver was obtained in that way.
-If a term is refunded or charged back in full, that term vests nothing. Use
-during that term before the refund stays lawful. A partial refund, or a refund
-for the Association's own failure, leaves vesting untouched. You may rely on a
-genuinely issued record despite any of these:
+
+Refunds and chargebacks are the other exceptions. For the payment for a
+term:
+
+  - refunded in full: that term's coverage ends at the refund, and the term
+    vests nothing;
+  - refunded in full because the Association failed you: the coverage ends in
+    the same way, but what the term vested stays;
+  - refunded in part: nothing changes;
+  - a chargeback open on the payment for a credential's current term: its
+    coverage pauses. If the chargeback is reversed and the payment stands,
+    the coverage comes back with no gap, as if it had never paused. If it is
+    upheld, the term's coverage ends;
+  - a chargeback of the full payment, upheld, for any term: that term vests
+    nothing.
+
+In every case, use while the term was covered stays lawful.
+
+Reliance. You may rely on a genuinely issued record despite any of these:
 
   - the Association's error;
   - an honest understatement of size when the record was obtained;
